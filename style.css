@@ -7,3 +7,9 @@
     height: 400px;
     background: black;
 }
+
+.eat {
+    width: 10px;
+    height: 10px;
+    background: rgb(17, 219, 61);
+}
