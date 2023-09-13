@@ -1,0 +1,9 @@
+.wrapper {
+    width: 100%;
+}
+
+.game {
+    width: 400px;
+    height: 400px;
+    background: black;
+}
